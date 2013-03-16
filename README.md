@@ -7,7 +7,7 @@ Startup News API
 - /news 获取Startup News首页内容
 - /newest 获取Startup News新提交内容
 
-![newest](https://github.com/xhinking/StartupNewsAPI/blob/master/screenshot/json.png)
+![newest](https://raw.github.com/xhinking/StartupNewsAPI/master/screenshot/json.png)
 
 ## 说明
 抓取Startup News首页和新提交页面，解析生成JSON格式。期待Startup News官方API。
