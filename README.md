@@ -1,11 +1,11 @@
 Startup News API
 ==============
 
-[Startup News](http:news.dbanotes.net)API
+[Startup News](http:news.dbanotes.net) 非官方API
 
 ## API
-- /news 获取Startup News首页内容
-- /newest 获取Startup News新提交内容
+- Path/news 获取Startup News首页内容
+- Path/newest 获取Startup News新提交内容
 
 ![newest](https://raw.github.com/xhinking/StartupNewsAPI/master/screenshot/json.png)
 
