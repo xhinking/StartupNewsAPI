@@ -1,15 +1,13 @@
 Startup News API
 ==============
 
-[Startup News] API(http:news.dbanotes.net)
+[Startup News](http:news.dbanotes.net)API
 
 ## API
--/news 获取Startup News首页内容
--/newest 获取Startup News新提交内容
+- /news 获取Startup News首页内容
+- /newest 获取Startup News新提交内容
 
-![newest](/path/to/img.jpg)
-
-
+![newest](https://github.com/xhinking/StartupNewsAPI/blob/master/screenshot/json.png)
 
 ## 说明
 抓取Startup News首页和新提交页面，解析生成JSON格式。期待Startup News官方API。
