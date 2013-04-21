@@ -21,7 +21,7 @@ for ($i=0; $i <= 31; $i += 1) {
 	$news['points'] = $infoChunks[0];
 	$news['by'] = $infoChunks[3];
 	$news['time'] = $infoChunks[4].' '.$infoChunks[5];
-	$news['comments'] = 'http://news.dbanotes.net/'.$feeds_infos->find('a', 2)->href;
+	$news['comments'] = 'http://news.dbanotes.net/'.$feed_info->find('a', 1)->href;
 
 	$data[] = $news;
 }
